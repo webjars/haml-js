@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>haml-js</artifactId>
-    <version>0.2.5</version>
+    <version>0.2.6-SNAPSHOT</version>
     <name>Haml</name>
     <description>WebJar for Haml</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/haml-js</url>
         <connection>scm:git:https://github.com/webjars/haml-js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/haml-js.git</developerConnection>
-        <tag>haml-js-0.2.5</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
